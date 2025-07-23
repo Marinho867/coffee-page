@@ -1,2 +1,2 @@
 # coffee
-site do café  
+Exemplo de landing page para produtores de café  
